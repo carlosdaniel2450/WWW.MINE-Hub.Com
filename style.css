@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    border:0%;
+    margin: auto;
+    background-image: url(imag/bugss.jpg);
+}
+.baner{
+ background-color: white;
+ color: blueviolet;
+}
+
+.conteudo{
+text-decoration: solid;
+    text-align: center;
+    color: black;
+
+}
+.par{
+    text-align: center;
+}
+.rodape{
+color: white;
+    flex-direction: column;
+    height: 200px;
+    display: flex;
+}
+button{
+    text-shadow: 10%;
+    border-radius: 10px;
+    background-color: rgb(151, 0, 151);
+    color: white;
+    width: 190px;
+    height: 60px;
+}
+.final{
+    color: rgb(167, 167, 167);
+    max-width: 100%;
+    max-height: 50px;
+}

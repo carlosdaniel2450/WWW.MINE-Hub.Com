@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    border:0%;
+    margin: auto;
+    background-image: url(imag/bugss.jpg);
+}
+form{
+    flex-direction: calc(50%, -50%);
+    display: flex;
+    width: 200px;
+    background-color: rgb(194, 191, 191);
+}
